@@ -1,0 +1,1001 @@
+gender,race/ethnicity,parental level of education,lunch,test preparation course,math score,reading score,writing score
+FEMALE,group B,bachelor's degree, standard,NONE,72%,72%,74%
+FEMALE,group C,some college, standard,COMPLETED,69%,90%,88%
+FEMALE,group B,master's degree, standard,NONE,90%,95%,93%
+MALE,group A,associate's degree, free/reduced,NONE,47%,57%,44%
+MALE,group C,some college, standard,NONE,76%,78%,75%
+FEMALE,group B,associate's degree, standard,NONE,71%,83%,78%
+FEMALE,group B,some college, standard,COMPLETED,88%,95%,92%
+MALE,group B,some college, free/reduced,NONE,40%,43%,39%
+MALE,group D,high school, free/reduced,COMPLETED,64%,64%,67%
+FEMALE,group B,high school, free/reduced,NONE,38%,60%,50%
+MALE,group C,associate's degree, standard,NONE,58%,54%,52%
+MALE,group D,associate's degree, standard,NONE,40%,52%,43%
+FEMALE,group B,high school, standard,NONE,65%,81%,73%
+MALE,group A,some college, standard,COMPLETED,78%,72%,70%
+FEMALE,group A,master's degree, standard,NONE,50%,53%,58%
+FEMALE,group C,some high school, standard,NONE,69%,75%,78%
+MALE,group C,high school, standard,NONE,88%,89%,86%
+FEMALE,group B,some high school, free/reduced,NONE,18%,32%,28%
+MALE,group C,master's degree, free/reduced,COMPLETED,46%,42%,46%
+FEMALE,group C,associate's degree, free/reduced,NONE,54%,58%,61%
+MALE,group D,high school, standard,NONE,66%,69%,63%
+FEMALE,group B,some college, free/reduced,COMPLETED,65%,75%,70%
+MALE,group D,some college, standard,NONE,44%,54%,53%
+FEMALE,group C,some high school, standard,NONE,69%,73%,73%
+MALE,group D,bachelor's degree, free/reduced,COMPLETED,74%,71%,80%
+MALE,group A,master's degree, free/reduced,NONE,73%,74%,72%
+MALE,group B,some college, standard,NONE,69%,54%,55%
+FEMALE,group C,bachelor's degree, standard,NONE,67%,69%,75%
+MALE,group C,high school, standard,NONE,70%,70%,65%
+FEMALE,group D,master's degree, standard,NONE,62%,70%,75%
+FEMALE,group D,some college, standard,NONE,69%,74%,74%
+FEMALE,group B,some college, standard,NONE,63%,65%,61%
+FEMALE,group E,master's degree, free/reduced,NONE,56%,72%,65%
+MALE,group D,some college, standard,NONE,40%,42%,38%
+MALE,group E,some college, standard,NONE,97%,87%,82%
+MALE,group E,associate's degree, standard,COMPLETED,81%,81%,79%
+FEMALE,group D,associate's degree, standard,NONE,74%,81%,83%
+FEMALE,group D,some high school, free/reduced,NONE,50%,64%,59%
+FEMALE,group D,associate's degree, free/reduced,COMPLETED,75%,90%,88%
+MALE,group B,associate's degree, free/reduced,NONE,57%,56%,57%
+MALE,group C,associate's degree, free/reduced,NONE,55%,61%,54%
+FEMALE,group C,associate's degree, standard,NONE,58%,73%,68%
+FEMALE,group B,associate's degree, standard,NONE,53%,58%,65%
+MALE,group B,some college, free/reduced,COMPLETED,59%,65%,66%
+FEMALE,group E,associate's degree, free/reduced,NONE,50%,56%,54%
+MALE,group B,associate's degree, standard,NONE,65%,54%,57%
+FEMALE,group A,associate's degree, standard,COMPLETED,55%,65%,62%
+FEMALE,group C,high school, standard,NONE,66%,71%,76%
+FEMALE,group D,associate's degree, free/reduced,COMPLETED,57%,74%,76%
+MALE,group C,high school, standard,COMPLETED,82%,84%,82%
+MALE,group E,some college, standard,NONE,53%,55%,48%
+MALE,group E,associate's degree, free/reduced,COMPLETED,77%,69%,68%
+MALE,group C,some college, standard,NONE,53%,44%,42%
+MALE,group D,high school, standard,NONE,88%,78%,75%
+FEMALE,group C,some high school, free/reduced,COMPLETED,71%,84%,87%
+FEMALE,group C,high school, free/reduced,NONE,33%,41%,43%
+FEMALE,group E,associate's degree, standard,COMPLETED,82%,85%,86%
+MALE,group D,associate's degree, standard,NONE,52%,55%,49%
+MALE,group D,some college, standard,COMPLETED,58%,59%,58%
+FEMALE,group C,some high school, free/reduced,NONE,0%,17%,10%
+MALE,group E,bachelor's degree, free/reduced,COMPLETED,79%,74%,72%
+MALE,group A,some high school, free/reduced,NONE,39%,39%,34%
+MALE,group A,associate's degree, free/reduced,NONE,62%,61%,55%
+FEMALE,group C,associate's degree, standard,NONE,69%,80%,71%
+FEMALE,group D,some high school, standard,NONE,59%,58%,59%
+MALE,group B,some high school, standard,NONE,67%,64%,61%
+MALE,group D,some high school, free/reduced,NONE,45%,37%,37%
+FEMALE,group C,some college, standard,NONE,60%,72%,74%
+MALE,group B,associate's degree, free/reduced,NONE,61%,58%,56%
+FEMALE,group C,associate's degree, standard,NONE,39%,64%,57%
+FEMALE,group D,some college, free/reduced,COMPLETED,58%,63%,73%
+MALE,group D,some college, standard,COMPLETED,63%,55%,63%
+FEMALE,group A,associate's degree, free/reduced,NONE,41%,51%,48%
+MALE,group C,some high school, free/reduced,NONE,61%,57%,56%
+MALE,group C,some high school, standard,NONE,49%,49%,41%
+MALE,group B,associate's degree, free/reduced,NONE,44%,41%,38%
+MALE,group E,some high school, standard,NONE,30%,26%,22%
+MALE,group A,bachelor's degree, standard,COMPLETED,80%,78%,81%
+FEMALE,group D,some high school, standard,COMPLETED,61%,74%,72%
+FEMALE,group E,master's degree, standard,NONE,62%,68%,68%
+FEMALE,group B,associate's degree, standard,NONE,47%,49%,50%
+MALE,group B,high school, free/reduced,NONE,49%,45%,45%
+MALE,group A,some college, free/reduced,COMPLETED,50%,47%,54%
+MALE,group E,associate's degree, standard,NONE,72%,64%,63%
+MALE,group D,high school, free/reduced,NONE,42%,39%,34%
+FEMALE,group C,some college, standard,NONE,73%,80%,82%
+FEMALE,group C,some college, free/reduced,NONE,76%,83%,88%
+FEMALE,group D,associate's degree, standard,NONE,71%,71%,74%
+FEMALE,group A,some college, standard,NONE,58%,70%,67%
+FEMALE,group D,some high school, standard,NONE,73%,86%,82%
+FEMALE,group C,bachelor's degree, standard,NONE,65%,72%,74%
+MALE,group C,high school, free/reduced,NONE,27%,34%,36%
+MALE,group C,high school, standard,NONE,71%,79%,71%
+MALE,group C,associate's degree, free/reduced,COMPLETED,43%,45%,50%
+FEMALE,group B,some college, standard,NONE,79%,86%,92%
+MALE,group C,associate's degree, free/reduced,COMPLETED,78%,81%,82%
+MALE,group B,some high school, standard,COMPLETED,65%,66%,62%
+FEMALE,group E,some college, standard,COMPLETED,63%,72%,70%
+FEMALE,group D,some college, free/reduced,NONE,58%,67%,62%
+FEMALE,group D,bachelor's degree, standard,NONE,65%,67%,62%
+MALE,group B,some college, standard,NONE,79%,67%,67%
+MALE,group D,bachelor's degree, standard,COMPLETED,68%,74%,74%
+FEMALE,group D,associate's degree, standard,NONE,85%,91%,89%
+MALE,group B,high school, standard,COMPLETED,60%,44%,47%
+MALE,group C,some college, standard,COMPLETED,98%,86%,90%
+FEMALE,group C,some college, standard,NONE,58%,67%,72%
+FEMALE,group D,master's degree, standard,NONE,87%,100%,100%
+MALE,group E,associate's degree, standard,COMPLETED,66%,63%,64%
+FEMALE,group B,associate's degree, free/reduced,NONE,52%,76%,70%
+FEMALE,group B,some high school, standard,NONE,70%,64%,72%
+FEMALE,group D,associate's degree, free/reduced,COMPLETED,77%,89%,98%
+MALE,group C,high school, standard,NONE,62%,55%,49%
+MALE,group A,associate's degree, standard,NONE,54%,53%,47%
+FEMALE,group D,some college, standard,NONE,51%,58%,54%
+FEMALE,group E,bachelor's degree, standard,COMPLETED,99%,100%,100%
+MALE,group C,high school, standard,NONE,84%,77%,74%
+FEMALE,group B,bachelor's degree, free/reduced,NONE,75%,85%,82%
+FEMALE,group D,bachelor's degree, standard,NONE,78%,82%,79%
+FEMALE,group D,some high school, standard,NONE,51%,63%,61%
+FEMALE,group C,some college, standard,NONE,55%,69%,65%
+FEMALE,group C,bachelor's degree, standard,COMPLETED,79%,92%,89%
+MALE,group B,associate's degree, standard,COMPLETED,91%,89%,92%
+FEMALE,group C,some college, standard,COMPLETED,88%,93%,93%
+MALE,group D,high school, free/reduced,NONE,63%,57%,56%
+MALE,group E,some college, standard,NONE,83%,80%,73%
+FEMALE,group B,high school, standard,NONE,87%,95%,86%
+MALE,group B,some high school, standard,NONE,72%,68%,67%
+MALE,group D,some college, standard,COMPLETED,65%,77%,74%
+MALE,group D,master's degree, standard,NONE,82%,82%,74%
+FEMALE,group A,bachelor's degree, standard,NONE,51%,49%,51%
+MALE,group D,master's degree, standard,NONE,89%,84%,82%
+MALE,group C,some high school, free/reduced,COMPLETED,53%,37%,40%
+MALE,group E,some college, free/reduced,COMPLETED,87%,74%,70%
+FEMALE,group C,some college, standard,COMPLETED,75%,81%,84%
+MALE,group D,bachelor's degree, free/reduced,COMPLETED,74%,79%,75%
+MALE,group C,bachelor's degree, standard,NONE,58%,55%,48%
+MALE,group B,some high school, standard,COMPLETED,51%,54%,41%
+MALE,group E,high school, standard,NONE,70%,55%,56%
+FEMALE,group C,associate's degree, standard,NONE,59%,66%,67%
+MALE,group D,some college, standard,COMPLETED,71%,61%,69%
+FEMALE,group D,some high school, standard,NONE,76%,72%,71%
+FEMALE,group C,some college, free/reduced,NONE,59%,62%,64%
+FEMALE,group E,some college, free/reduced,COMPLETED,42%,55%,54%
+MALE,group A,high school, standard,NONE,57%,43%,47%
+MALE,group D,some college, standard,NONE,88%,73%,78%
+FEMALE,group C,some college, free/reduced,NONE,22%,39%,33%
+MALE,group B,some high school, standard,NONE,88%,84%,75%
+MALE,group C,associate's degree, free/reduced,NONE,73%,68%,66%
+FEMALE,group D,bachelor's degree, standard,COMPLETED,68%,75%,81%
+MALE,group E,associate's degree, free/reduced,COMPLETED,100%,100%,93%
+MALE,group A,some high school, standard,COMPLETED,62%,67%,69%
+MALE,group A,bachelor's degree, standard,NONE,77%,67%,68%
+FEMALE,group B,associate's degree, standard,COMPLETED,59%,70%,66%
+MALE,group D,bachelor's degree, standard,NONE,54%,49%,47%
+MALE,group D,some high school, standard,NONE,62%,67%,61%
+FEMALE,group C,some college, standard,COMPLETED,70%,89%,88%
+FEMALE,group E,high school, free/reduced,COMPLETED,66%,74%,78%
+MALE,group B,some college, free/reduced,NONE,60%,60%,60%
+FEMALE,group B,associate's degree, standard,COMPLETED,61%,86%,87%
+MALE,group D,associate's degree, free/reduced,NONE,66%,62%,64%
+MALE,group B,associate's degree, free/reduced,COMPLETED,82%,78%,74%
+FEMALE,group E,some college, free/reduced,COMPLETED,75%,88%,85%
+MALE,group B,master's degree, free/reduced,NONE,49%,53%,52%
+MALE,group C,high school, standard,NONE,52%,53%,49%
+FEMALE,group E,master's degree, standard,NONE,81%,92%,91%
+FEMALE,group C,bachelor's degree, standard,COMPLETED,96%,100%,100%
+MALE,group C,high school, free/reduced,COMPLETED,53%,51%,51%
+FEMALE,group B,master's degree, free/reduced,COMPLETED,58%,76%,78%
+FEMALE,group B,high school, standard,COMPLETED,68%,83%,78%
+FEMALE,group C,some college, free/reduced,COMPLETED,67%,75%,70%
+MALE,group A,high school, standard,COMPLETED,72%,73%,74%
+MALE,group E,some high school, standard,NONE,94%,88%,78%
+FEMALE,group D,some college, standard,NONE,79%,86%,81%
+FEMALE,group C,associate's degree, standard,NONE,63%,67%,70%
+FEMALE,group C,bachelor's degree, free/reduced,COMPLETED,43%,51%,54%
+FEMALE,group C,master's degree, standard,COMPLETED,81%,91%,87%
+FEMALE,group B,high school, free/reduced,COMPLETED,46%,54%,58%
+FEMALE,group C,associate's degree, standard,COMPLETED,71%,77%,77%
+FEMALE,group B,master's degree, free/reduced,COMPLETED,52%,70%,62%
+FEMALE,group D,some high school, standard,COMPLETED,97%,100%,100%
+MALE,group C,master's degree, free/reduced,COMPLETED,62%,68%,75%
+FEMALE,group C,some college, free/reduced,NONE,46%,64%,66%
+FEMALE,group E,high school, standard,NONE,50%,50%,47%
+FEMALE,group D,associate's degree, standard,NONE,65%,69%,70%
+MALE,group C,some high school, free/reduced,COMPLETED,45%,52%,49%
+MALE,group C,associate's degree, free/reduced,COMPLETED,65%,67%,65%
+MALE,group E,high school, standard,NONE,80%,76%,65%
+MALE,group D,some high school, standard,COMPLETED,62%,66%,68%
+MALE,group B,some high school, free/reduced,NONE,48%,52%,45%
+FEMALE,group C,bachelor's degree, standard,NONE,77%,88%,87%
+FEMALE,group E,associate's degree, standard,NONE,66%,65%,69%
+MALE,group D,some college, standard,COMPLETED,76%,83%,79%
+FEMALE,group B,some high school, standard,NONE,62%,64%,66%
+MALE,group D,some college, standard,COMPLETED,77%,62%,62%
+FEMALE,group C,master's degree, standard,COMPLETED,69%,84%,85%
+MALE,group D,associate's degree, standard,NONE,61%,55%,52%
+MALE,group C,some high school, free/reduced,COMPLETED,59%,69%,65%
+MALE,group E,high school, free/reduced,NONE,55%,56%,51%
+FEMALE,group B,some college, free/reduced,NONE,45%,53%,55%
+FEMALE,group B,bachelor's degree, free/reduced,NONE,78%,79%,76%
+FEMALE,group C,associate's degree, standard,COMPLETED,67%,84%,86%
+FEMALE,group D,some college, free/reduced,NONE,65%,81%,77%
+MALE,group C,associate's degree, standard,NONE,69%,77%,69%
+FEMALE,group B,associate's degree, standard,NONE,57%,69%,68%
+MALE,group C,some college, standard,NONE,59%,41%,42%
+MALE,group D,some high school, standard,COMPLETED,74%,71%,78%
+MALE,group E,bachelor's degree, standard,NONE,82%,62%,62%
+MALE,group E,high school, standard,COMPLETED,81%,80%,76%
+FEMALE,group B,some college, free/reduced,NONE,74%,81%,76%
+FEMALE,group B,some college, free/reduced,NONE,58%,61%,66%
+MALE,group D,some high school, free/reduced,COMPLETED,80%,79%,79%
+MALE,group C,some college, free/reduced,NONE,35%,28%,27%
+FEMALE,group C,high school, free/reduced,NONE,42%,62%,60%
+MALE,group C,associate's degree, free/reduced,COMPLETED,60%,51%,56%
+MALE,group E,high school, standard,COMPLETED,87%,91%,81%
+MALE,group B,some high school, standard,COMPLETED,84%,83%,75%
+FEMALE,group E,associate's degree, free/reduced,COMPLETED,83%,86%,88%
+FEMALE,group C,high school, free/reduced,NONE,34%,42%,39%
+MALE,group B,high school, free/reduced,NONE,66%,77%,70%
+MALE,group B,some high school, standard,COMPLETED,61%,56%,56%
+FEMALE,group D,high school, standard,COMPLETED,56%,68%,74%
+MALE,group B,associate's degree, standard,NONE,87%,85%,73%
+FEMALE,group C,some high school, free/reduced,NONE,55%,65%,62%
+MALE,group D,some high school, standard,NONE,86%,80%,75%
+FEMALE,group B,associate's degree, standard,COMPLETED,52%,66%,73%
+FEMALE,group E,master's degree, free/reduced,NONE,45%,56%,54%
+FEMALE,group C,some college, standard,NONE,72%,72%,71%
+MALE,group D,high school, standard,NONE,57%,50%,54%
+MALE,group A,some high school, free/reduced,NONE,68%,72%,64%
+FEMALE,group C,some college, standard,COMPLETED,88%,95%,94%
+MALE,group D,some college, standard,NONE,76%,64%,66%
+MALE,group C,associate's degree, standard,NONE,46%,43%,42%
+FEMALE,group B,bachelor's degree, standard,NONE,67%,86%,83%
+MALE,group E,some high school, standard,NONE,92%,87%,78%
+MALE,group C,bachelor's degree, standard,COMPLETED,83%,82%,84%
+MALE,group D,associate's degree, standard,NONE,80%,75%,77%
+MALE,group D,bachelor's degree, free/reduced,NONE,63%,66%,67%
+FEMALE,group D,some high school, standard,COMPLETED,64%,60%,74%
+MALE,group B,some college, standard,NONE,54%,52%,51%
+MALE,group C,associate's degree, standard,NONE,84%,80%,80%
+MALE,group D,high school, free/reduced,COMPLETED,73%,68%,66%
+FEMALE,group E,bachelor's degree, standard,NONE,80%,83%,83%
+FEMALE,group D,high school, standard,NONE,56%,52%,55%
+MALE,group E,some college, standard,NONE,59%,51%,43%
+MALE,group D,some high school, standard,NONE,75%,74%,69%
+MALE,group C,associate's degree, standard,NONE,85%,76%,71%
+MALE,group E,associate's degree, standard,NONE,89%,76%,74%
+FEMALE,group B,high school, standard,COMPLETED,58%,70%,68%
+FEMALE,group B,high school, standard,NONE,65%,64%,62%
+MALE,group C,high school, standard,NONE,68%,60%,53%
+MALE,group A,some high school, standard,COMPLETED,47%,49%,49%
+FEMALE,group D,some college, free/reduced,NONE,71%,83%,83%
+FEMALE,group B,some high school, standard,COMPLETED,60%,70%,70%
+MALE,group D,master's degree, standard,NONE,80%,80%,72%
+MALE,group D,high school, standard,NONE,54%,52%,52%
+FEMALE,group E,some college, standard,NONE,62%,73%,70%
+FEMALE,group C,associate's degree, free/reduced,NONE,64%,73%,68%
+MALE,group C,associate's degree, standard,COMPLETED,78%,77%,77%
+FEMALE,group B,some college, standard,NONE,70%,75%,78%
+FEMALE,group C,master's degree, free/reduced,COMPLETED,65%,81%,81%
+FEMALE,group C,some high school, free/reduced,COMPLETED,64%,79%,77%
+MALE,group C,some college, standard,COMPLETED,79%,79%,78%
+FEMALE,group C,some high school, free/reduced,NONE,44%,50%,51%
+FEMALE,group E,high school, standard,NONE,99%,93%,90%
+MALE,group D,high school, standard,NONE,76%,73%,68%
+MALE,group D,some high school, free/reduced,NONE,59%,42%,41%
+FEMALE,group C,bachelor's degree, standard,NONE,63%,75%,81%
+FEMALE,group D,high school, standard,NONE,69%,72%,77%
+FEMALE,group D,associate's degree, standard,COMPLETED,88%,92%,95%
+FEMALE,group E,some college, free/reduced,NONE,71%,76%,70%
+MALE,group C,bachelor's degree, standard,NONE,69%,63%,61%
+MALE,group C,some college, standard,NONE,58%,49%,42%
+FEMALE,group D,associate's degree, free/reduced,NONE,47%,53%,58%
+FEMALE,group D,some college, standard,NONE,65%,70%,71%
+MALE,group B,some college, standard,COMPLETED,88%,85%,76%
+MALE,group C,bachelor's degree, standard,NONE,83%,78%,73%
+FEMALE,group C,some high school, standard,COMPLETED,85%,92%,93%
+FEMALE,group E,high school, standard,COMPLETED,59%,63%,75%
+FEMALE,group C,some high school, free/reduced,NONE,65%,86%,80%
+MALE,group B,bachelor's degree, free/reduced,NONE,73%,56%,57%
+MALE,group D,high school, standard,NONE,53%,52%,42%
+MALE,group D,high school, standard,NONE,45%,48%,46%
+FEMALE,group D,bachelor's degree, free/reduced,NONE,73%,79%,84%
+FEMALE,group D,some college, free/reduced,COMPLETED,70%,78%,78%
+FEMALE,group B,some high school, standard,NONE,37%,46%,46%
+MALE,group B,associate's degree, standard,COMPLETED,81%,82%,82%
+MALE,group E,associate's degree, standard,COMPLETED,97%,82%,88%
+FEMALE,group B,some high school, standard,NONE,67%,89%,82%
+MALE,group B,bachelor's degree, free/reduced,NONE,88%,75%,76%
+MALE,group E,some high school, standard,COMPLETED,77%,76%,77%
+MALE,group C,associate's degree, standard,NONE,76%,70%,68%
+MALE,group D,some high school, standard,NONE,86%,73%,70%
+MALE,group C,some high school, standard,COMPLETED,63%,60%,57%
+FEMALE,group E,bachelor's degree, standard,NONE,65%,73%,75%
+MALE,group D,high school, free/reduced,COMPLETED,78%,77%,80%
+MALE,group B,associate's degree, free/reduced,NONE,67%,62%,60%
+MALE,group A,some high school, standard,COMPLETED,46%,41%,43%
+MALE,group E,associate's degree, standard,COMPLETED,71%,74%,68%
+MALE,group C,high school, free/reduced,COMPLETED,40%,46%,50%
+MALE,group D,associate's degree, free/reduced,NONE,90%,87%,75%
+MALE,group A,some college, free/reduced,COMPLETED,81%,78%,81%
+MALE,group D,some high school, free/reduced,NONE,56%,54%,52%
+FEMALE,group C,associate's degree, standard,COMPLETED,67%,84%,81%
+MALE,group B,associate's degree, standard,NONE,80%,76%,64%
+FEMALE,group C,associate's degree, standard,COMPLETED,74%,75%,83%
+MALE,group A,some college, standard,NONE,69%,67%,69%
+MALE,group E,some college, standard,COMPLETED,99%,87%,81%
+MALE,group C,some high school, standard,NONE,51%,52%,44%
+FEMALE,group B,associate's degree, free/reduced,NONE,53%,71%,67%
+FEMALE,group D,high school, free/reduced,NONE,49%,57%,52%
+FEMALE,group B,associate's degree, standard,NONE,73%,76%,80%
+MALE,group B,bachelor's degree, standard,NONE,66%,60%,57%
+MALE,group D,bachelor's degree, standard,COMPLETED,67%,61%,68%
+FEMALE,group C,associate's degree, free/reduced,COMPLETED,68%,67%,69%
+FEMALE,group C,bachelor's degree, standard,COMPLETED,59%,64%,75%
+MALE,group C,high school, standard,NONE,71%,66%,65%
+FEMALE,group D,master's degree, standard,COMPLETED,77%,82%,91%
+MALE,group C,associate's degree, standard,NONE,83%,72%,78%
+MALE,group B,bachelor's degree, standard,NONE,63%,71%,69%
+FEMALE,group D,associate's degree, free/reduced,NONE,56%,65%,63%
+FEMALE,group C,high school, free/reduced,COMPLETED,67%,79%,84%
+FEMALE,group E,high school, standard,NONE,75%,86%,79%
+FEMALE,group C,some college, standard,NONE,71%,81%,80%
+FEMALE,group C,some high school, free/reduced,NONE,43%,53%,53%
+FEMALE,group C,high school, free/reduced,NONE,41%,46%,43%
+FEMALE,group C,some college, standard,NONE,82%,90%,94%
+MALE,group C,some college, standard,NONE,61%,61%,62%
+MALE,group A,some college, free/reduced,NONE,28%,23%,19%
+MALE,group C,associate's degree, standard,COMPLETED,82%,75%,77%
+FEMALE,group B,some high school, standard,NONE,41%,55%,51%
+MALE,group C,high school, standard,NONE,71%,60%,61%
+MALE,group C,associate's degree, standard,NONE,47%,37%,35%
+MALE,group E,associate's degree, standard,COMPLETED,62%,56%,53%
+MALE,group B,associate's degree, standard,NONE,90%,78%,81%
+FEMALE,group C,bachelor's degree, standard,NONE,83%,93%,95%
+FEMALE,group B,some college, free/reduced,NONE,61%,68%,66%
+MALE,group D,some high school, standard,COMPLETED,76%,70%,69%
+MALE,group C,associate's degree, standard,NONE,49%,51%,43%
+FEMALE,group B,some high school, free/reduced,NONE,24%,38%,27%
+FEMALE,group D,some high school, free/reduced,COMPLETED,35%,55%,60%
+MALE,group C,high school, free/reduced,NONE,58%,61%,52%
+FEMALE,group C,high school, standard,NONE,61%,73%,63%
+FEMALE,group B,high school, standard,COMPLETED,69%,76%,74%
+MALE,group D,associate's degree, standard,COMPLETED,67%,72%,67%
+MALE,group D,some college, standard,NONE,79%,73%,67%
+FEMALE,group C,high school, standard,NONE,72%,80%,75%
+MALE,group B,some college, standard,NONE,62%,61%,57%
+FEMALE,group C,bachelor's degree, standard,COMPLETED,77%,94%,95%
+MALE,group D,high school, free/reduced,NONE,75%,74%,66%
+MALE,group E,associate's degree, standard,NONE,87%,74%,76%
+FEMALE,group B,bachelor's degree, standard,NONE,52%,65%,69%
+MALE,group E,some college, standard,NONE,66%,57%,52%
+FEMALE,group C,some college, standard,COMPLETED,63%,78%,80%
+FEMALE,group C,associate's degree, standard,NONE,46%,58%,57%
+FEMALE,group C,some college, standard,NONE,59%,71%,70%
+FEMALE,group B,bachelor's degree, standard,NONE,61%,72%,70%
+MALE,group A,associate's degree, standard,NONE,63%,61%,61%
+FEMALE,group C,some college, free/reduced,COMPLETED,42%,66%,69%
+MALE,group D,some college, free/reduced,NONE,59%,62%,61%
+FEMALE,group D,some college, standard,NONE,80%,90%,89%
+FEMALE,group B,high school, standard,NONE,58%,62%,59%
+MALE,group B,some high school, standard,COMPLETED,85%,84%,78%
+FEMALE,group C,some college, standard,NONE,52%,58%,58%
+FEMALE,group D,some high school, free/reduced,NONE,27%,34%,32%
+MALE,group C,some college, standard,NONE,59%,60%,58%
+MALE,group A,bachelor's degree, free/reduced,COMPLETED,49%,58%,60%
+MALE,group C,high school, standard,COMPLETED,69%,58%,53%
+MALE,group C,bachelor's degree, free/reduced,NONE,61%,66%,61%
+FEMALE,group A,some high school, free/reduced,NONE,44%,64%,58%
+FEMALE,group D,some high school, standard,NONE,73%,84%,85%
+MALE,group E,some college, standard,NONE,84%,77%,71%
+FEMALE,group C,some college, free/reduced,COMPLETED,45%,73%,70%
+MALE,group D,some high school, standard,NONE,74%,74%,72%
+FEMALE,group D,some college, standard,COMPLETED,82%,97%,96%
+FEMALE,group D,bachelor's degree, standard,NONE,59%,70%,73%
+MALE,group E,associate's degree, free/reduced,NONE,46%,43%,41%
+FEMALE,group D,some high school, standard,NONE,80%,90%,82%
+FEMALE,group D,master's degree, free/reduced,COMPLETED,85%,95%,100%
+FEMALE,group A,some high school, standard,NONE,71%,83%,77%
+MALE,group A,bachelor's degree, standard,NONE,66%,64%,62%
+FEMALE,group B,associate's degree, standard,NONE,80%,86%,83%
+MALE,group C,associate's degree, standard,COMPLETED,87%,100%,95%
+MALE,group C,master's degree, free/reduced,NONE,79%,81%,71%
+FEMALE,group E,some high school, free/reduced,NONE,38%,49%,45%
+FEMALE,group A,some high school, free/reduced,NONE,38%,43%,43%
+FEMALE,group E,some college, standard,NONE,67%,76%,75%
+FEMALE,group E,bachelor's degree, standard,NONE,64%,73%,70%
+FEMALE,group C,associate's degree, free/reduced,NONE,57%,78%,67%
+FEMALE,group D,high school, standard,NONE,62%,64%,64%
+MALE,group D,master's degree, standard,NONE,73%,70%,75%
+MALE,group E,some high school, free/reduced,COMPLETED,73%,67%,59%
+FEMALE,group D,some college, standard,NONE,77%,68%,77%
+MALE,group E,some college, standard,NONE,76%,67%,67%
+MALE,group C,associate's degree, standard,COMPLETED,57%,54%,56%
+FEMALE,group C,some high school, standard,COMPLETED,65%,74%,77%
+MALE,group A,high school, free/reduced,NONE,48%,45%,41%
+FEMALE,group B,high school, free/reduced,NONE,50%,67%,63%
+FEMALE,group C,associate's degree, standard,NONE,85%,89%,95%
+MALE,group B,some high school, standard,NONE,74%,63%,57%
+MALE,group D,some high school, standard,NONE,60%,59%,54%
+FEMALE,group C,some high school, standard,COMPLETED,59%,54%,67%
+MALE,group A,some college, standard,NONE,53%,43%,43%
+FEMALE,group A,some college, free/reduced,NONE,49%,65%,55%
+FEMALE,group D,high school, standard,COMPLETED,88%,99%,100%
+FEMALE,group C,high school, standard,NONE,54%,59%,62%
+FEMALE,group C,some high school, standard,NONE,63%,73%,68%
+MALE,group B,associate's degree, standard,COMPLETED,65%,65%,63%
+FEMALE,group B,associate's degree, standard,NONE,82%,80%,77%
+FEMALE,group D,high school, free/reduced,COMPLETED,52%,57%,56%
+MALE,group D,associate's degree, standard,COMPLETED,87%,84%,85%
+FEMALE,group D,master's degree, standard,COMPLETED,70%,71%,74%
+MALE,group E,some college, standard,COMPLETED,84%,83%,78%
+MALE,group D,associate's degree, standard,NONE,71%,66%,60%
+MALE,group B,some high school, standard,COMPLETED,63%,67%,67%
+FEMALE,group C,bachelor's degree, free/reduced,COMPLETED,51%,72%,79%
+MALE,group E,high school, standard,NONE,84%,73%,69%
+MALE,group C,bachelor's degree, standard,COMPLETED,71%,74%,68%
+MALE,group C,associate's degree, standard,NONE,74%,73%,67%
+MALE,group D,some college, standard,NONE,68%,59%,62%
+MALE,group E,high school, free/reduced,COMPLETED,57%,56%,54%
+FEMALE,group C,associate's degree, free/reduced,COMPLETED,82%,93%,93%
+FEMALE,group D,high school, standard,COMPLETED,57%,58%,64%
+FEMALE,group D,master's degree, free/reduced,COMPLETED,47%,58%,67%
+FEMALE,group A,some high school, standard,COMPLETED,59%,85%,80%
+MALE,group B,some college, free/reduced,NONE,41%,39%,34%
+FEMALE,group C,some college, free/reduced,NONE,62%,67%,62%
+MALE,group C,bachelor's degree, standard,NONE,86%,83%,86%
+MALE,group C,some high school, free/reduced,NONE,69%,71%,65%
+MALE,group A,some high school, free/reduced,NONE,65%,59%,53%
+MALE,group C,some high school, free/reduced,NONE,68%,63%,54%
+MALE,group C,associate's degree, free/reduced,NONE,64%,66%,59%
+FEMALE,group C,high school, standard,NONE,61%,72%,70%
+MALE,group C,high school, standard,NONE,61%,56%,55%
+FEMALE,group A,some high school, free/reduced,NONE,47%,59%,50%
+MALE,group C,some high school, standard,NONE,73%,66%,66%
+MALE,group C,some college, free/reduced,COMPLETED,50%,48%,53%
+MALE,group D,associate's degree, standard,NONE,75%,68%,64%
+MALE,group D,associate's degree, free/reduced,NONE,75%,66%,73%
+MALE,group C,high school, standard,NONE,70%,56%,51%
+MALE,group D,some high school, standard,COMPLETED,89%,88%,82%
+FEMALE,group C,some college, standard,COMPLETED,67%,81%,79%
+FEMALE,group D,high school, standard,NONE,78%,81%,80%
+FEMALE,group A,some high school, free/reduced,NONE,59%,73%,69%
+FEMALE,group B,associate's degree, standard,NONE,73%,83%,76%
+MALE,group A,some high school, free/reduced,NONE,79%,82%,73%
+FEMALE,group C,some high school, standard,COMPLETED,67%,74%,77%
+MALE,group D,some college, free/reduced,NONE,69%,66%,60%
+MALE,group C,high school, standard,COMPLETED,86%,81%,80%
+MALE,group B,high school, standard,NONE,47%,46%,42%
+MALE,group B,associate's degree, standard,NONE,81%,73%,72%
+FEMALE,group C,some college, free/reduced,COMPLETED,64%,85%,85%
+FEMALE,group E,some college, standard,NONE,100%,92%,97%
+FEMALE,group C,associate's degree, free/reduced,NONE,65%,77%,74%
+MALE,group C,some college, free/reduced,NONE,65%,58%,49%
+FEMALE,group C,associate's degree, free/reduced,NONE,53%,61%,62%
+MALE,group C,bachelor's degree, free/reduced,NONE,37%,56%,47%
+FEMALE,group D,bachelor's degree, standard,NONE,79%,89%,89%
+MALE,group D,associate's degree, free/reduced,NONE,53%,54%,48%
+FEMALE,group E,bachelor's degree, standard,NONE,100%,100%,100%
+MALE,group B,high school, standard,COMPLETED,72%,65%,68%
+MALE,group C,bachelor's degree, free/reduced,NONE,53%,58%,55%
+MALE,group B,some college, free/reduced,NONE,54%,54%,45%
+FEMALE,group E,some college, standard,NONE,71%,70%,76%
+FEMALE,group C,some college, free/reduced,NONE,77%,90%,91%
+MALE,group A,bachelor's degree, standard,COMPLETED,75%,58%,62%
+FEMALE,group C,some college, standard,NONE,84%,87%,91%
+FEMALE,group D,associate's degree, free/reduced,NONE,26%,31%,38%
+MALE,group A,high school, free/reduced,COMPLETED,72%,67%,65%
+FEMALE,group A,high school, free/reduced,COMPLETED,77%,88%,85%
+MALE,group C,some college, standard,NONE,91%,74%,76%
+FEMALE,group C,associate's degree, standard,COMPLETED,83%,85%,90%
+FEMALE,group C,high school, standard,NONE,63%,69%,74%
+FEMALE,group C,associate's degree, standard,COMPLETED,68%,86%,84%
+FEMALE,group D,some high school, standard,NONE,59%,67%,61%
+FEMALE,group B,associate's degree, standard,COMPLETED,90%,90%,91%
+FEMALE,group D,bachelor's degree, standard,COMPLETED,71%,76%,83%
+MALE,group E,bachelor's degree, standard,COMPLETED,76%,62%,66%
+MALE,group D,associate's degree, standard,NONE,80%,68%,72%
+FEMALE,group D,master's degree, standard,NONE,55%,64%,70%
+MALE,group E,associate's degree, standard,NONE,76%,71%,67%
+MALE,group B,high school, standard,COMPLETED,73%,71%,68%
+FEMALE,group D,associate's degree, free/reduced,NONE,52%,59%,56%
+MALE,group C,some college, free/reduced,NONE,68%,68%,61%
+MALE,group A,high school, standard,NONE,59%,52%,46%
+FEMALE,group B,associate's degree, standard,NONE,49%,52%,54%
+MALE,group C,high school, standard,NONE,70%,74%,71%
+MALE,group D,some college, free/reduced,NONE,61%,47%,56%
+FEMALE,group C,associate's degree, free/reduced,NONE,60%,75%,74%
+MALE,group B,some high school, standard,COMPLETED,64%,53%,57%
+MALE,group A,associate's degree, free/reduced,COMPLETED,79%,82%,82%
+FEMALE,group A,associate's degree, free/reduced,NONE,65%,85%,76%
+FEMALE,group C,associate's degree, standard,NONE,64%,64%,70%
+FEMALE,group C,some college, standard,NONE,83%,83%,90%
+FEMALE,group C,bachelor's degree, standard,NONE,81%,88%,90%
+FEMALE,group B,high school, standard,NONE,54%,64%,68%
+MALE,group D,high school, standard,COMPLETED,68%,64%,66%
+FEMALE,group C,some college, standard,NONE,54%,48%,52%
+FEMALE,group D,some college, free/reduced,COMPLETED,59%,78%,76%
+FEMALE,group B,some high school, standard,NONE,66%,69%,68%
+MALE,group E,some college, standard,NONE,76%,71%,72%
+FEMALE,group D,master's degree, standard,NONE,74%,79%,82%
+FEMALE,group B,associate's degree, standard,COMPLETED,94%,87%,92%
+MALE,group C,some college, free/reduced,NONE,63%,61%,54%
+FEMALE,group E,associate's degree, standard,COMPLETED,95%,89%,92%
+FEMALE,group D,master's degree, free/reduced,NONE,40%,59%,54%
+FEMALE,group B,some high school, standard,NONE,82%,82%,80%
+MALE,group A,high school, standard,NONE,68%,70%,66%
+MALE,group B,bachelor's degree, free/reduced,NONE,55%,59%,54%
+MALE,group C,master's degree, standard,NONE,79%,78%,77%
+FEMALE,group C,bachelor's degree, standard,NONE,86%,92%,87%
+MALE,group D,some college, standard,NONE,76%,71%,73%
+MALE,group A,some high school, standard,NONE,64%,50%,43%
+MALE,group D,some high school, free/reduced,NONE,62%,49%,52%
+FEMALE,group B,some high school, standard,COMPLETED,54%,61%,62%
+FEMALE,group B,master's degree, free/reduced,COMPLETED,77%,97%,94%
+FEMALE,group C,some high school, standard,COMPLETED,76%,87%,85%
+FEMALE,group D,some college, standard,NONE,74%,89%,84%
+FEMALE,group E,some college, standard,COMPLETED,66%,74%,73%
+FEMALE,group D,some high school, standard,COMPLETED,66%,78%,78%
+FEMALE,group B,high school, free/reduced,COMPLETED,67%,78%,79%
+MALE,group D,some college, standard,NONE,71%,49%,52%
+FEMALE,group C,associate's degree, standard,NONE,91%,86%,84%
+MALE,group D,bachelor's degree, standard,NONE,69%,58%,57%
+MALE,group C,master's degree, free/reduced,NONE,54%,59%,50%
+MALE,group C,high school, standard,COMPLETED,53%,52%,49%
+MALE,group E,some college, standard,NONE,68%,60%,59%
+MALE,group C,some high school, free/reduced,COMPLETED,56%,61%,60%
+FEMALE,group C,high school, free/reduced,NONE,36%,53%,43%
+FEMALE,group D,bachelor's degree, free/reduced,NONE,29%,41%,47%
+FEMALE,group C,associate's degree, standard,NONE,62%,74%,70%
+FEMALE,group C,associate's degree, standard,COMPLETED,68%,67%,73%
+FEMALE,group C,some high school, standard,NONE,47%,54%,53%
+MALE,group E,associate's degree, standard,COMPLETED,62%,61%,58%
+FEMALE,group E,associate's degree, standard,COMPLETED,79%,88%,94%
+MALE,group B,high school, standard,COMPLETED,73%,69%,68%
+FEMALE,group C,bachelor's degree, free/reduced,COMPLETED,66%,83%,83%
+MALE,group C,associate's degree, standard,COMPLETED,51%,60%,58%
+FEMALE,group D,high school, standard,NONE,51%,66%,62%
+MALE,group E,bachelor's degree, standard,COMPLETED,85%,66%,71%
+MALE,group A,associate's degree, standard,COMPLETED,97%,92%,86%
+MALE,group C,high school, standard,COMPLETED,75%,69%,68%
+MALE,group D,associate's degree, free/reduced,COMPLETED,79%,82%,80%
+FEMALE,group C,associate's degree, standard,NONE,81%,77%,79%
+FEMALE,group D,associate's degree, standard,NONE,82%,95%,89%
+FEMALE,group D,master's degree, standard,NONE,64%,63%,66%
+MALE,group E,some high school, free/reduced,COMPLETED,78%,83%,80%
+FEMALE,group A,some high school, standard,COMPLETED,92%,100%,97%
+MALE,group C,high school, standard,COMPLETED,72%,67%,64%
+FEMALE,group C,high school, free/reduced,NONE,62%,67%,64%
+MALE,group C,master's degree, standard,NONE,79%,72%,69%
+MALE,group C,some high school, free/reduced,NONE,79%,76%,65%
+MALE,group B,bachelor's degree, free/reduced,COMPLETED,87%,90%,88%
+FEMALE,group B,associate's degree, standard,NONE,40%,48%,50%
+MALE,group D,some college, free/reduced,NONE,77%,62%,64%
+MALE,group E,associate's degree, standard,NONE,53%,45%,40%
+FEMALE,group C,some college, free/reduced,NONE,32%,39%,33%
+FEMALE,group C,associate's degree, standard,COMPLETED,55%,72%,79%
+MALE,group C,master's degree, free/reduced,NONE,61%,67%,66%
+FEMALE,group B,associate's degree, free/reduced,NONE,53%,70%,70%
+MALE,group D,some high school, standard,NONE,73%,66%,62%
+FEMALE,group D,some college, standard,COMPLETED,74%,75%,79%
+FEMALE,group C,some college, standard,NONE,63%,74%,74%
+MALE,group C,bachelor's degree, standard,COMPLETED,96%,90%,92%
+FEMALE,group D,some college, free/reduced,COMPLETED,63%,80%,80%
+MALE,group B,bachelor's degree, free/reduced,NONE,48%,51%,46%
+MALE,group B,associate's degree, standard,NONE,48%,43%,45%
+FEMALE,group E,bachelor's degree, free/reduced,COMPLETED,92%,100%,100%
+FEMALE,group D,master's degree, free/reduced,COMPLETED,61%,71%,78%
+MALE,group B,high school, free/reduced,NONE,63%,48%,47%
+MALE,group D,bachelor's degree, free/reduced,NONE,68%,68%,67%
+MALE,group B,some college, standard,COMPLETED,71%,75%,70%
+MALE,group A,bachelor's degree, standard,NONE,91%,96%,92%
+FEMALE,group C,some college, standard,NONE,53%,62%,56%
+FEMALE,group C,high school, free/reduced,COMPLETED,50%,66%,64%
+FEMALE,group E,high school, standard,NONE,74%,81%,71%
+MALE,group A,associate's degree, free/reduced,COMPLETED,40%,55%,53%
+MALE,group A,some college, standard,COMPLETED,61%,51%,52%
+FEMALE,group B,high school, standard,NONE,81%,91%,89%
+FEMALE,group B,some college, free/reduced,COMPLETED,48%,56%,58%
+FEMALE,group D,master's degree, standard,NONE,53%,61%,68%
+FEMALE,group D,some high school, standard,NONE,81%,97%,96%
+FEMALE,group E,some high school, standard,NONE,77%,79%,80%
+FEMALE,group D,bachelor's degree, free/reduced,NONE,63%,73%,78%
+FEMALE,group D,associate's degree, standard,COMPLETED,73%,75%,80%
+FEMALE,group D,some college, standard,NONE,69%,77%,77%
+FEMALE,group C,associate's degree, standard,NONE,65%,76%,76%
+FEMALE,group A,high school, standard,NONE,55%,73%,73%
+FEMALE,group C,bachelor's degree, free/reduced,NONE,44%,63%,62%
+FEMALE,group C,some college, standard,NONE,54%,64%,65%
+FEMALE,group A,some high school, standard,NONE,48%,66%,65%
+MALE,group C,some college, free/reduced,NONE,58%,57%,54%
+MALE,group A,some high school, standard,NONE,71%,62%,50%
+MALE,group E,bachelor's degree, standard,NONE,68%,68%,64%
+FEMALE,group E,high school, standard,NONE,74%,76%,73%
+FEMALE,group C,bachelor's degree, standard,COMPLETED,92%,100%,99%
+FEMALE,group C,bachelor's degree, standard,COMPLETED,56%,79%,72%
+MALE,group B,high school, free/reduced,NONE,30%,24%,15%
+MALE,group A,some high school, standard,NONE,53%,54%,48%
+FEMALE,group D,high school, standard,NONE,69%,77%,73%
+FEMALE,group D,some high school, standard,NONE,65%,82%,81%
+FEMALE,group D,master's degree, standard,NONE,54%,60%,63%
+FEMALE,group C,high school, standard,NONE,29%,29%,30%
+FEMALE,group E,some college, standard,NONE,76%,78%,80%
+MALE,group D,high school, free/reduced,NONE,60%,57%,51%
+MALE,group D,master's degree, free/reduced,COMPLETED,84%,89%,90%
+MALE,group C,some high school, standard,NONE,75%,72%,62%
+FEMALE,group C,associate's degree, standard,NONE,85%,84%,82%
+FEMALE,group C,master's degree, free/reduced,NONE,40%,58%,54%
+FEMALE,group E,some college, standard,NONE,61%,64%,62%
+FEMALE,group B,associate's degree, standard,NONE,58%,63%,65%
+MALE,group D,some college, free/reduced,COMPLETED,69%,60%,63%
+FEMALE,group C,some college, standard,NONE,58%,59%,66%
+MALE,group C,bachelor's degree, standard,COMPLETED,94%,90%,91%
+FEMALE,group C,associate's degree, standard,NONE,65%,77%,74%
+FEMALE,group A,associate's degree, standard,NONE,82%,93%,93%
+FEMALE,group C,high school, standard,NONE,60%,68%,72%
+FEMALE,group E,bachelor's degree, standard,NONE,37%,45%,38%
+MALE,group D,bachelor's degree, standard,NONE,88%,78%,83%
+MALE,group D,master's degree, standard,NONE,95%,81%,84%
+MALE,group C,associate's degree, free/reduced,COMPLETED,65%,73%,68%
+FEMALE,group C,high school, free/reduced,NONE,35%,61%,54%
+MALE,group B,bachelor's degree, free/reduced,NONE,62%,63%,56%
+MALE,group C,high school, free/reduced,COMPLETED,58%,51%,52%
+MALE,group A,some college, standard,COMPLETED,100%,96%,86%
+FEMALE,group E,bachelor's degree, free/reduced,NONE,61%,58%,62%
+MALE,group D,some college, standard,COMPLETED,100%,97%,99%
+MALE,group B,associate's degree, free/reduced,COMPLETED,69%,70%,63%
+MALE,group D,associate's degree, standard,NONE,61%,48%,46%
+MALE,group D,some college, free/reduced,NONE,49%,57%,46%
+FEMALE,group C,some high school, standard,COMPLETED,44%,51%,55%
+MALE,group D,some college, standard,NONE,67%,64%,70%
+MALE,group B,high school, standard,NONE,79%,60%,65%
+FEMALE,group B,bachelor's degree, standard,COMPLETED,66%,74%,81%
+FEMALE,group C,high school, standard,NONE,75%,88%,85%
+MALE,group D,some high school, standard,NONE,84%,84%,80%
+MALE,group A,high school, standard,NONE,71%,74%,64%
+FEMALE,group B,high school, free/reduced,COMPLETED,67%,80%,81%
+FEMALE,group D,some high school, standard,COMPLETED,80%,92%,88%
+MALE,group E,some college, standard,NONE,86%,76%,74%
+FEMALE,group D,associate's degree, standard,NONE,76%,74%,73%
+MALE,group D,high school, standard,NONE,41%,52%,51%
+FEMALE,group D,associate's degree, free/reduced,COMPLETED,74%,88%,90%
+FEMALE,group B,some high school, free/reduced,NONE,72%,81%,79%
+FEMALE,group E,high school, standard,COMPLETED,74%,79%,80%
+MALE,group B,high school, standard,NONE,70%,65%,60%
+FEMALE,group B,bachelor's degree, standard,COMPLETED,65%,81%,81%
+FEMALE,group D,associate's degree, standard,NONE,59%,70%,65%
+FEMALE,group E,high school, free/reduced,NONE,64%,62%,68%
+FEMALE,group B,high school, standard,NONE,50%,53%,55%
+FEMALE,group D,some college, standard,COMPLETED,69%,79%,81%
+MALE,group C,some high school, free/reduced,COMPLETED,51%,56%,53%
+FEMALE,group A,high school, standard,COMPLETED,68%,80%,76%
+FEMALE,group D,some college, standard,COMPLETED,85%,86%,98%
+FEMALE,group A,associate's degree, standard,COMPLETED,65%,70%,74%
+FEMALE,group B,some high school, standard,NONE,73%,79%,79%
+FEMALE,group B,some college, standard,NONE,62%,67%,67%
+MALE,group C,associate's degree, free/reduced,NONE,77%,67%,64%
+MALE,group D,some high school, standard,NONE,69%,66%,61%
+FEMALE,group D,associate's degree, free/reduced,NONE,43%,60%,58%
+MALE,group D,associate's degree, standard,NONE,90%,87%,85%
+MALE,group C,some college, free/reduced,NONE,74%,77%,73%
+MALE,group C,some high school, standard,NONE,73%,66%,63%
+FEMALE,group D,some college, free/reduced,NONE,55%,71%,69%
+FEMALE,group C,high school, standard,NONE,65%,69%,67%
+MALE,group D,associate's degree, standard,NONE,80%,63%,63%
+FEMALE,group C,some high school, free/reduced,COMPLETED,50%,60%,60%
+FEMALE,group C,some college, free/reduced,COMPLETED,63%,73%,71%
+FEMALE,group B,bachelor's degree, free/reduced,NONE,77%,85%,87%
+MALE,group C,some college, standard,NONE,73%,74%,61%
+MALE,group D,associate's degree, standard,COMPLETED,81%,72%,77%
+FEMALE,group C,high school, free/reduced,NONE,66%,76%,68%
+MALE,group D,associate's degree, free/reduced,NONE,52%,57%,50%
+FEMALE,group C,some college, standard,NONE,69%,78%,76%
+FEMALE,group C,associate's degree, standard,COMPLETED,65%,84%,84%
+FEMALE,group D,high school, standard,COMPLETED,69%,77%,78%
+FEMALE,group B,some college, standard,COMPLETED,50%,64%,66%
+FEMALE,group E,some college, standard,COMPLETED,73%,78%,76%
+FEMALE,group C,some high school, standard,COMPLETED,70%,82%,76%
+MALE,group D,associate's degree, free/reduced,NONE,81%,75%,78%
+MALE,group D,some college, free/reduced,NONE,63%,61%,60%
+FEMALE,group D,high school, standard,NONE,67%,72%,74%
+MALE,group B,high school, standard,NONE,60%,68%,60%
+MALE,group B,high school, standard,NONE,62%,55%,54%
+FEMALE,group C,some high school, free/reduced,COMPLETED,29%,40%,44%
+MALE,group B,some college, standard,COMPLETED,62%,66%,68%
+FEMALE,group E,master's degree, standard,COMPLETED,94%,99%,100%
+MALE,group E,some college, standard,COMPLETED,85%,75%,68%
+MALE,group D,associate's degree, free/reduced,NONE,77%,78%,73%
+MALE,group A,high school, free/reduced,NONE,53%,58%,44%
+MALE,group E,some college, free/reduced,NONE,93%,90%,83%
+FEMALE,group C,associate's degree, standard,NONE,49%,53%,53%
+FEMALE,group E,associate's degree, free/reduced,NONE,73%,76%,78%
+FEMALE,group C,bachelor's degree, free/reduced,COMPLETED,66%,74%,81%
+FEMALE,group D,associate's degree, standard,NONE,77%,77%,73%
+FEMALE,group C,some high school, standard,NONE,49%,63%,56%
+FEMALE,group D,some college, free/reduced,NONE,79%,89%,86%
+FEMALE,group C,associate's degree, standard,COMPLETED,75%,82%,90%
+FEMALE,group A,bachelor's degree, standard,NONE,59%,72%,70%
+FEMALE,group D,associate's degree, standard,COMPLETED,57%,78%,79%
+MALE,group C,high school, free/reduced,NONE,66%,66%,59%
+FEMALE,group E,bachelor's degree, standard,COMPLETED,79%,81%,82%
+FEMALE,group B,some high school, standard,NONE,57%,67%,72%
+MALE,group A,bachelor's degree, standard,COMPLETED,87%,84%,87%
+FEMALE,group D,some college, standard,NONE,63%,64%,67%
+FEMALE,group B,some high school, free/reduced,COMPLETED,59%,63%,64%
+MALE,group A,bachelor's degree, free/reduced,NONE,62%,72%,65%
+MALE,group D,high school, standard,NONE,46%,34%,36%
+MALE,group C,some college, standard,NONE,66%,59%,52%
+MALE,group D,high school, standard,NONE,89%,87%,79%
+FEMALE,group D,associate's degree, free/reduced,COMPLETED,42%,61%,58%
+MALE,group C,some college, standard,COMPLETED,93%,84%,90%
+FEMALE,group E,some high school, standard,COMPLETED,80%,85%,85%
+FEMALE,group D,some college, standard,NONE,98%,100%,99%
+MALE,group D,master's degree, standard,NONE,81%,81%,84%
+FEMALE,group B,some high school, standard,COMPLETED,60%,70%,74%
+FEMALE,group B,associate's degree, free/reduced,COMPLETED,76%,94%,87%
+MALE,group C,associate's degree, standard,COMPLETED,73%,78%,72%
+FEMALE,group C,associate's degree, standard,COMPLETED,96%,96%,99%
+FEMALE,group C,high school, standard,NONE,76%,76%,74%
+MALE,group E,associate's degree, free/reduced,COMPLETED,91%,73%,80%
+FEMALE,group C,some college, free/reduced,NONE,62%,72%,70%
+MALE,group D,some high school, free/reduced,COMPLETED,55%,59%,59%
+FEMALE,group B,some high school, free/reduced,COMPLETED,74%,90%,88%
+MALE,group C,high school, standard,NONE,50%,48%,42%
+MALE,group B,some college, standard,NONE,47%,43%,41%
+MALE,group E,some college, standard,COMPLETED,81%,74%,71%
+FEMALE,group E,associate's degree, standard,COMPLETED,65%,75%,77%
+MALE,group E,some high school, standard,COMPLETED,68%,51%,57%
+FEMALE,group D,high school, free/reduced,NONE,73%,92%,84%
+MALE,group C,some college, standard,NONE,53%,39%,37%
+FEMALE,group B,associate's degree, free/reduced,COMPLETED,68%,77%,80%
+MALE,group A,some high school, free/reduced,NONE,55%,46%,43%
+FEMALE,group C,some college, standard,COMPLETED,87%,89%,94%
+MALE,group D,some high school, standard,NONE,55%,47%,44%
+FEMALE,group E,some college, free/reduced,NONE,53%,58%,57%
+MALE,group C,master's degree, standard,NONE,67%,57%,59%
+MALE,group C,associate's degree, standard,NONE,92%,79%,84%
+FEMALE,group B,some college, free/reduced,COMPLETED,53%,66%,73%
+MALE,group D,associate's degree, standard,NONE,81%,71%,73%
+MALE,group C,high school, free/reduced,NONE,61%,60%,55%
+MALE,group D,bachelor's degree, standard,NONE,80%,73%,72%
+FEMALE,group A,associate's degree, free/reduced,NONE,37%,57%,56%
+FEMALE,group C,high school, standard,NONE,81%,84%,82%
+FEMALE,group C,associate's degree, standard,COMPLETED,59%,73%,72%
+MALE,group B,some college, free/reduced,NONE,55%,55%,47%
+MALE,group D,associate's degree, standard,NONE,72%,79%,74%
+MALE,group D,high school, standard,NONE,69%,75%,71%
+MALE,group C,some college, standard,NONE,69%,64%,68%
+FEMALE,group C,bachelor's degree, free/reduced,NONE,50%,60%,59%
+MALE,group B,some college, standard,COMPLETED,87%,84%,86%
+MALE,group D,some high school, standard,COMPLETED,71%,69%,68%
+MALE,group E,some college, standard,NONE,68%,72%,65%
+MALE,group C,master's degree, free/reduced,COMPLETED,79%,77%,75%
+FEMALE,group C,some high school, standard,COMPLETED,77%,90%,85%
+MALE,group C,associate's degree, free/reduced,NONE,58%,55%,53%
+FEMALE,group E,associate's degree, standard,NONE,84%,95%,92%
+MALE,group D,some college, standard,NONE,55%,58%,52%
+MALE,group E,bachelor's degree, free/reduced,COMPLETED,70%,68%,72%
+FEMALE,group D,some college, free/reduced,COMPLETED,52%,59%,65%
+MALE,group B,some college, standard,COMPLETED,69%,77%,77%
+FEMALE,group C,high school, free/reduced,NONE,53%,72%,64%
+FEMALE,group D,some high school, standard,NONE,48%,58%,54%
+MALE,group D,some high school, standard,COMPLETED,78%,81%,86%
+FEMALE,group B,high school, standard,NONE,62%,62%,63%
+MALE,group D,some college, standard,NONE,60%,63%,59%
+FEMALE,group B,high school, standard,NONE,74%,72%,72%
+FEMALE,group C,high school, standard,COMPLETED,58%,75%,77%
+MALE,group B,high school, standard,COMPLETED,76%,62%,60%
+FEMALE,group D,some high school, standard,NONE,68%,71%,75%
+MALE,group A,some college, free/reduced,NONE,58%,60%,57%
+MALE,group B,high school, standard,NONE,52%,48%,49%
+MALE,group D,bachelor's degree, standard,NONE,75%,73%,74%
+FEMALE,group B,some high school, free/reduced,COMPLETED,52%,67%,72%
+FEMALE,group C,bachelor's degree, free/reduced,NONE,62%,78%,79%
+MALE,group B,some college, standard,NONE,66%,65%,60%
+FEMALE,group B,some high school, free/reduced,NONE,49%,58%,55%
+FEMALE,group B,high school, standard,NONE,66%,72%,70%
+FEMALE,group C,some college, free/reduced,NONE,35%,44%,43%
+FEMALE,group A,some college, standard,COMPLETED,72%,79%,82%
+MALE,group E,associate's degree, standard,COMPLETED,94%,85%,82%
+FEMALE,group D,associate's degree, free/reduced,NONE,46%,56%,57%
+FEMALE,group B,master's degree, standard,NONE,77%,90%,84%
+FEMALE,group B,high school, free/reduced,COMPLETED,76%,85%,82%
+FEMALE,group C,associate's degree, standard,COMPLETED,52%,59%,62%
+MALE,group C,bachelor's degree, standard,COMPLETED,91%,81%,79%
+FEMALE,group B,some high school, standard,COMPLETED,32%,51%,44%
+FEMALE,group E,some high school, free/reduced,NONE,72%,79%,77%
+FEMALE,group B,some college, standard,NONE,19%,38%,32%
+MALE,group C,associate's degree, free/reduced,NONE,68%,65%,61%
+FEMALE,group C,master's degree, free/reduced,NONE,52%,65%,61%
+FEMALE,group B,high school, standard,NONE,48%,62%,60%
+FEMALE,group D,some college, free/reduced,NONE,60%,66%,70%
+MALE,group D,high school, free/reduced,NONE,66%,74%,69%
+MALE,group E,some high school, standard,COMPLETED,89%,84%,77%
+FEMALE,group B,high school, standard,NONE,42%,52%,51%
+FEMALE,group E,associate's degree, free/reduced,COMPLETED,57%,68%,73%
+MALE,group D,high school, standard,NONE,70%,70%,70%
+FEMALE,group E,associate's degree, free/reduced,NONE,70%,84%,81%
+MALE,group E,some college, standard,NONE,69%,60%,54%
+FEMALE,group C,associate's degree, standard,NONE,52%,55%,57%
+MALE,group C,some high school, standard,COMPLETED,67%,73%,68%
+MALE,group C,some high school, standard,COMPLETED,76%,80%,73%
+FEMALE,group E,associate's degree, standard,NONE,87%,94%,95%
+FEMALE,group B,some college, standard,NONE,82%,85%,87%
+FEMALE,group C,some college, standard,NONE,73%,76%,78%
+MALE,group A,some college, free/reduced,NONE,75%,81%,74%
+FEMALE,group D,some college, free/reduced,NONE,64%,74%,75%
+FEMALE,group E,high school, free/reduced,NONE,41%,45%,40%
+MALE,group C,high school, standard,NONE,90%,75%,69%
+MALE,group B,bachelor's degree, standard,NONE,59%,54%,51%
+MALE,group A,some high school, standard,NONE,51%,31%,36%
+MALE,group A,high school, free/reduced,NONE,45%,47%,49%
+FEMALE,group C,master's degree, standard,COMPLETED,54%,64%,67%
+MALE,group E,some high school, standard,COMPLETED,87%,84%,76%
+FEMALE,group C,high school, standard,NONE,72%,80%,83%
+MALE,group B,some high school, standard,COMPLETED,94%,86%,87%
+FEMALE,group A,bachelor's degree, standard,NONE,45%,59%,64%
+MALE,group D,bachelor's degree, free/reduced,COMPLETED,61%,70%,76%
+FEMALE,group B,high school, free/reduced,NONE,60%,72%,68%
+FEMALE,group C,some high school, standard,NONE,77%,91%,88%
+FEMALE,group A,some high school, standard,COMPLETED,85%,90%,92%
+FEMALE,group D,bachelor's degree, free/reduced,NONE,78%,90%,93%
+MALE,group E,some college, free/reduced,COMPLETED,49%,52%,51%
+FEMALE,group B,high school, free/reduced,NONE,71%,87%,82%
+FEMALE,group C,some high school, free/reduced,NONE,48%,58%,52%
+MALE,group C,high school, standard,NONE,62%,67%,58%
+FEMALE,group C,associate's degree, free/reduced,COMPLETED,56%,68%,70%
+FEMALE,group C,some high school, standard,NONE,65%,69%,76%
+FEMALE,group D,some high school, free/reduced,COMPLETED,69%,86%,81%
+MALE,group B,some high school, standard,NONE,68%,54%,53%
+FEMALE,group A,some college, free/reduced,NONE,61%,60%,57%
+FEMALE,group C,bachelor's degree, free/reduced,COMPLETED,74%,86%,89%
+MALE,group A,bachelor's degree, standard,NONE,64%,60%,58%
+FEMALE,group B,high school, standard,COMPLETED,77%,82%,89%
+MALE,group B,some college, standard,NONE,58%,50%,45%
+FEMALE,group C,high school, standard,COMPLETED,60%,64%,74%
+MALE,group E,high school, standard,NONE,73%,64%,57%
+FEMALE,group A,high school, standard,COMPLETED,75%,82%,79%
+MALE,group B,associate's degree, free/reduced,COMPLETED,58%,57%,53%
+FEMALE,group C,associate's degree, standard,NONE,66%,77%,73%
+FEMALE,group D,high school, free/reduced,NONE,39%,52%,46%
+MALE,group C,some high school, standard,NONE,64%,58%,51%
+FEMALE,group B,high school, free/reduced,COMPLETED,23%,44%,36%
+MALE,group B,some college, free/reduced,COMPLETED,74%,77%,76%
+FEMALE,group D,some high school, free/reduced,COMPLETED,40%,65%,64%
+MALE,group E,master's degree, standard,NONE,90%,85%,84%
+MALE,group C,master's degree, standard,COMPLETED,91%,85%,85%
+MALE,group D,high school, standard,NONE,64%,54%,50%
+FEMALE,group C,high school, standard,NONE,59%,72%,68%
+MALE,group D,associate's degree, standard,NONE,80%,75%,69%
+MALE,group C,master's degree, standard,NONE,71%,67%,67%
+FEMALE,group A,high school, standard,NONE,61%,68%,63%
+FEMALE,group E,some college, standard,NONE,87%,85%,93%
+MALE,group E,some high school, standard,NONE,82%,67%,61%
+MALE,group C,some high school, standard,NONE,62%,64%,55%
+FEMALE,group B,bachelor's degree, standard,NONE,97%,97%,96%
+MALE,group B,some college, free/reduced,NONE,75%,68%,65%
+FEMALE,group C,bachelor's degree, standard,NONE,65%,79%,81%
+MALE,group B,high school, standard,COMPLETED,52%,49%,46%
+MALE,group C,associate's degree, free/reduced,NONE,87%,73%,72%
+FEMALE,group C,associate's degree, standard,NONE,53%,62%,53%
+FEMALE,group E,master's degree, free/reduced,NONE,81%,86%,87%
+MALE,group D,bachelor's degree, free/reduced,COMPLETED,39%,42%,38%
+FEMALE,group C,some college, standard,COMPLETED,71%,71%,80%
+MALE,group C,associate's degree, standard,NONE,97%,93%,91%
+MALE,group D,some college, standard,COMPLETED,82%,82%,88%
+MALE,group C,high school, free/reduced,NONE,59%,53%,52%
+MALE,group B,associate's degree, standard,NONE,61%,42%,41%
+MALE,group E,associate's degree, free/reduced,COMPLETED,78%,74%,72%
+MALE,group C,associate's degree, free/reduced,NONE,49%,51%,51%
+MALE,group B,high school, standard,NONE,59%,58%,47%
+FEMALE,group C,some college, standard,COMPLETED,70%,72%,76%
+MALE,group B,associate's degree, standard,COMPLETED,82%,84%,78%
+MALE,group E,associate's degree, free/reduced,NONE,90%,90%,82%
+FEMALE,group C,bachelor's degree, free/reduced,NONE,43%,62%,61%
+MALE,group C,some college, free/reduced,NONE,80%,64%,66%
+MALE,group D,some college, standard,NONE,81%,82%,84%
+MALE,group C,some high school, standard,NONE,57%,61%,54%
+FEMALE,group D,some high school, standard,NONE,59%,72%,80%
+FEMALE,group D,associate's degree, standard,NONE,64%,76%,74%
+MALE,group C,bachelor's degree, standard,COMPLETED,63%,64%,66%
+FEMALE,group E,bachelor's degree, standard,COMPLETED,71%,70%,70%
+FEMALE,group B,high school, free/reduced,NONE,64%,73%,71%
+MALE,group D,bachelor's degree, free/reduced,NONE,55%,46%,44%
+FEMALE,group E,associate's degree, standard,NONE,51%,51%,54%
+FEMALE,group C,associate's degree, standard,COMPLETED,62%,76%,80%
+FEMALE,group E,associate's degree, standard,COMPLETED,93%,100%,95%
+MALE,group C,high school, free/reduced,NONE,54%,72%,59%
+FEMALE,group D,some college, free/reduced,NONE,69%,65%,74%
+MALE,group D,high school, free/reduced,NONE,44%,51%,48%
+FEMALE,group E,some college, standard,COMPLETED,86%,85%,91%
+FEMALE,group E,associate's degree, standard,NONE,85%,92%,85%
+FEMALE,group A,master's degree, free/reduced,NONE,50%,67%,73%
+MALE,group D,some high school, standard,COMPLETED,88%,74%,75%
+FEMALE,group E,associate's degree, standard,NONE,59%,62%,69%
+FEMALE,group E,some high school, free/reduced,NONE,32%,34%,38%
+MALE,group B,high school, free/reduced,NONE,36%,29%,27%
+FEMALE,group B,some high school, free/reduced,COMPLETED,63%,78%,79%
+MALE,group D,associate's degree, standard,COMPLETED,67%,54%,63%
+FEMALE,group D,some high school, standard,COMPLETED,65%,78%,82%
+MALE,group D,master's degree, standard,NONE,85%,84%,89%
+FEMALE,group C,master's degree, standard,NONE,73%,78%,74%
+FEMALE,group A,high school, free/reduced,COMPLETED,34%,48%,41%
+FEMALE,group D,bachelor's degree, free/reduced,COMPLETED,93%,100%,100%
+FEMALE,group D,some high school, free/reduced,NONE,67%,84%,84%
+MALE,group D,some college, standard,NONE,88%,77%,77%
+MALE,group B,high school, standard,NONE,57%,48%,51%
+FEMALE,group D,some college, standard,COMPLETED,79%,84%,91%
+FEMALE,group C,bachelor's degree, free/reduced,NONE,67%,75%,72%
+MALE,group E,bachelor's degree, standard,COMPLETED,70%,64%,70%
+MALE,group D,bachelor's degree, free/reduced,NONE,50%,42%,48%
+FEMALE,group A,some college, standard,NONE,69%,84%,82%
+FEMALE,group C,bachelor's degree, standard,COMPLETED,52%,61%,66%
+FEMALE,group C,bachelor's degree, free/reduced,COMPLETED,47%,62%,66%
+FEMALE,group B,associate's degree, free/reduced,NONE,46%,61%,55%
+FEMALE,group E,some college, standard,NONE,68%,70%,66%
+MALE,group E,bachelor's degree, standard,COMPLETED,100%,100%,100%
+FEMALE,group C,high school, standard,NONE,44%,61%,52%
+FEMALE,group C,associate's degree, standard,COMPLETED,57%,77%,80%
+MALE,group B,some college, standard,COMPLETED,91%,96%,91%
+MALE,group D,high school, free/reduced,NONE,69%,70%,67%
+FEMALE,group C,high school, free/reduced,NONE,35%,53%,46%
+MALE,group D,high school, standard,NONE,72%,66%,66%
+FEMALE,group B,associate's degree, free/reduced,NONE,54%,65%,65%
+MALE,group D,high school, free/reduced,NONE,74%,70%,69%
+MALE,group E,some high school, standard,COMPLETED,74%,64%,60%
+MALE,group E,associate's degree, free/reduced,NONE,64%,56%,52%
+FEMALE,group D,high school, free/reduced,COMPLETED,65%,61%,71%
+MALE,group E,associate's degree, free/reduced,COMPLETED,46%,43%,44%
+FEMALE,group C,some high school, free/reduced,NONE,48%,56%,51%
+MALE,group C,some college, free/reduced,COMPLETED,67%,74%,70%
+MALE,group D,some college, free/reduced,NONE,62%,57%,62%
+MALE,group D,associate's degree, free/reduced,COMPLETED,61%,71%,73%
+MALE,group C,bachelor's degree, free/reduced,COMPLETED,70%,75%,74%
+MALE,group C,associate's degree, standard,COMPLETED,98%,87%,90%
+MALE,group D,some college, free/reduced,NONE,70%,63%,58%
+MALE,group A,associate's degree, standard,NONE,67%,57%,53%
+FEMALE,group E,high school, free/reduced,NONE,57%,58%,57%
+MALE,group D,some college, standard,COMPLETED,85%,81%,85%
+MALE,group D,some high school, standard,COMPLETED,77%,68%,69%
+MALE,group C,master's degree, free/reduced,COMPLETED,72%,66%,72%
+FEMALE,group D,master's degree, standard,NONE,78%,91%,96%
+MALE,group C,high school, standard,NONE,81%,66%,64%
+MALE,group A,some high school, free/reduced,COMPLETED,61%,62%,61%
+FEMALE,group B,high school, standard,NONE,58%,68%,61%
+FEMALE,group C,associate's degree, standard,NONE,54%,61%,58%
+MALE,group B,high school, standard,NONE,82%,82%,80%
+FEMALE,group D,some college, free/reduced,NONE,49%,58%,60%
+MALE,group B,some high school, free/reduced,COMPLETED,49%,50%,52%
+FEMALE,group E,high school, free/reduced,COMPLETED,57%,75%,73%
+MALE,group E,high school, standard,NONE,94%,73%,71%
+FEMALE,group D,some college, standard,COMPLETED,75%,77%,83%
+FEMALE,group E,some high school, free/reduced,NONE,74%,74%,72%
+MALE,group C,high school, standard,COMPLETED,58%,52%,54%
+FEMALE,group C,some college, standard,NONE,62%,69%,69%
+MALE,group E,associate's degree, standard,NONE,72%,57%,62%
+MALE,group C,some college, standard,NONE,84%,87%,81%
+FEMALE,group D,master's degree, standard,NONE,92%,100%,100%
+FEMALE,group D,high school, standard,NONE,45%,63%,59%
+MALE,group C,high school, standard,NONE,75%,81%,71%
+FEMALE,group A,some college, standard,NONE,56%,58%,64%
+FEMALE,group D,some high school, free/reduced,NONE,48%,54%,53%
+FEMALE,group E,associate's degree, standard,NONE,100%,100%,100%
+FEMALE,group C,some high school, free/reduced,COMPLETED,65%,76%,75%
+MALE,group D,some college, standard,NONE,72%,57%,58%
+FEMALE,group D,some college, standard,NONE,62%,70%,72%
+MALE,group A,some high school, standard,COMPLETED,66%,68%,64%
+MALE,group C,some college, standard,NONE,63%,63%,60%
+FEMALE,group E,associate's degree, standard,NONE,68%,76%,67%
+FEMALE,group B,bachelor's degree, standard,NONE,75%,84%,80%
+FEMALE,group D,bachelor's degree, standard,NONE,89%,100%,100%
+MALE,group C,some high school, standard,COMPLETED,78%,72%,69%
+FEMALE,group A,high school, free/reduced,COMPLETED,53%,50%,60%
+FEMALE,group D,some college, free/reduced,NONE,49%,65%,61%
+FEMALE,group A,some college, standard,NONE,54%,63%,67%
+FEMALE,group C,some college, standard,COMPLETED,64%,82%,77%
+MALE,group B,some college, free/reduced,COMPLETED,60%,62%,60%
+MALE,group C,associate's degree, standard,NONE,62%,65%,58%
+MALE,group D,high school, standard,COMPLETED,55%,41%,48%
+FEMALE,group C,associate's degree, standard,NONE,91%,95%,94%
+FEMALE,group B,high school, free/reduced,NONE,8%,24%,23%
+MALE,group D,some high school, standard,NONE,81%,78%,78%
+MALE,group B,some high school, standard,COMPLETED,79%,85%,86%
+FEMALE,group A,some college, standard,COMPLETED,78%,87%,91%
+FEMALE,group C,some high school, standard,NONE,74%,75%,82%
+MALE,group A,high school, standard,NONE,57%,51%,54%
+FEMALE,group C,associate's degree, standard,NONE,40%,59%,51%
+MALE,group E,some high school, standard,COMPLETED,81%,75%,76%
+FEMALE,group A,some high school, free/reduced,NONE,44%,45%,45%
+FEMALE,group D,some college, free/reduced,COMPLETED,67%,86%,83%
+MALE,group E,high school, free/reduced,COMPLETED,86%,81%,75%
+FEMALE,group B,some high school, standard,COMPLETED,65%,82%,78%
+FEMALE,group D,associate's degree, free/reduced,NONE,55%,76%,76%
+FEMALE,group D,bachelor's degree, free/reduced,NONE,62%,72%,74%
+MALE,group A,high school, standard,NONE,63%,63%,62%
+FEMALE,group E,master's degree, standard,COMPLETED,88%,99%,95%
+MALE,group C,high school, free/reduced,NONE,62%,55%,55%
+FEMALE,group C,high school, free/reduced,COMPLETED,59%,71%,65%
+FEMALE,group D,some college, standard,COMPLETED,68%,78%,77%
+FEMALE,group D,some college, free/reduced,NONE,77%,86%,86%
