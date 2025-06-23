@@ -3,7 +3,9 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report, accuracy_score
-# pickle5 
+import pickle
+
+
 
 def create_model(data):
     X = data.drop(labels=['diagnosis'], axis=1)
@@ -47,10 +49,14 @@ def get_normalized_data():
 
 def main():
     data = get_normalized_data()
-    print(data.head())
+    model , scaler = create_model(data)
 
-    return data
+    with open('model/model.pkl', 'wb') as m:
+        pickle.dump(model, m)
+    
+    with open('model/scale.pkl', 'wb') as s:
+        pickle.dump(scaler, s)
 
 if __name__ == '__main__':
-    data = main()
-    model , scaler = create_model(data)
+    main()
+    
